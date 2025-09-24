@@ -1,2 +1,3 @@
 # testing-gitst
-A sample check for testing git commands
+Ass sample check for testing git commands
+test now!
